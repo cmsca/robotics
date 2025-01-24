@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FTC Meeting - 10/20/2024
+title: Meeting - 10/20/2024
 ---
 
 ## FTC Meeting - 10/20/2024
