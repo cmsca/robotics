@@ -1,6 +1,6 @@
 title: CMSCA Robotics
 markdown: kramdown
-theme: just-the-docs
+theme: minima
 permalink: pretty
 
 # Optional settings for just-the-docs
