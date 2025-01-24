@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FTC Meeting - 09/22/2024
+title: Meeting - 09/22/2024
 ---
 
 # CMSCA Robotics Meeting Summaries and Next Steps (2024-2025)
