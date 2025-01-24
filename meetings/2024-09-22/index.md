@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meeting - 09/22/2024
+date: 2024-09-22
 ---
 
 # CMSCA Robotics Meeting Summaries and Next Steps (2024-2025)
