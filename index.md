@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # CMSCA Robotics Club
 
 Welcome to the CMSCA Robotics Club website! This platform documents our journey, meetings, and resources to help current and future students build, program, and market robotics projects.
