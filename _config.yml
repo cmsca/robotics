@@ -1,2 +1,4 @@
 title: CMSCA Robotics
-theme: just-the-docs
+markdown: kramdown
+theme: minima
+permalink: pretty
