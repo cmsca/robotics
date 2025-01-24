@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: CMSCA Robotics
 nav_order: 1
 ---
 
