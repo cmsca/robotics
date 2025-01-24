@@ -7,10 +7,9 @@ title: Meeting Summaries
 
 Below is a list of all meeting notes:
 
-{% for file in site.pages %}
-  {% if file.path contains 'meetings/' and file.path != 'meetings/index.md' %}
-  - [{{ file.title }}](/robotics{{ file.url }})
-  {% endif %}
+{% assign meetings = site.pages | where_exp: "file", "file.path contains 'meetings/' and file.path != 'meetings/index.md'" | sort: "date" %}
+{% for file in meetings %}
+  - [{{ file.title }}]({{ site.baseurl }}{{ file.url }})
 {% endfor %}
 
-[Back to Home](../index.md)
+[Back to Home]({{ site.baseurl }}/index.md)
