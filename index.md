@@ -1,8 +1,3 @@
----
-layout: default
-title: CMSCA Robotics
-nav_order: 1
----
 
 # CMSCA Robotics Club
 
