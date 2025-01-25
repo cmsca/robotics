@@ -1,6 +1,6 @@
 title: CMSCA Robotics 2024-2025
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 permalink: pretty
 
 # Optional settings for just-the-docs
