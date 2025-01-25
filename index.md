@@ -1,5 +1,5 @@
 
-# CMSCA Robotics Club
+# CMSCA Robotics Club Main Page
 
 Welcome to the CMSCA Robotics Club website! This platform documents our journey, meetings, and resources to help current and future students build, program, and market robotics projects.
 
